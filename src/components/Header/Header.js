@@ -1,8 +1,8 @@
 import React from 'react';
-import logo from '../../../src/logo/logo2.png';
+import logo from '../../../src/resources/logo/logo2.png';
 // import { Nav, Navbar, Container } from 'react-bootstrap';
 import './Header.css';
-import header from '../../bannerbackground.png';
+import header from '../../../src/resources/bannerbackground.png';
 import Navbar from '../Navbar/Navbar';
 import { FormControl, InputGroup } from 'react-bootstrap';
 import Button from '@restart/ui/esm/Button';
